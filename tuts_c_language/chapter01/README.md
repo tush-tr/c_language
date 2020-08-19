@@ -14,5 +14,6 @@
 <a href="que2.c"> b) Using inputs supplied by the user</a>
 
 ### <a href="que3.c">Q2-Calculate the area of a circle</a>
-### <a href="qu4.c">Q4-Calculate the volume of a cylinder of given radius and height</a>
+### <a href="que4.c">Q4-Calculate the volume of a cylinder of given radius and height</a>
 
+### <a href="que5.c">Q5-write a program to calculate simple interest for a set of values representing principal, no of years and rate of interest</a>
