@@ -25,7 +25,7 @@ Q1- Write a C program to calculate area of a rectangle
 ### Tuts-
 <a href="chapter02/ins.c">Type Declaration instruction</a><br>
 <a href="chapter02/ins2.c">Arithmetic Instructions(Use of all arithmetic operators)</a><br>
-example 1 - <a href="chapter02/pow.c">Area of a square with power function(math.h library)</a>
+example 1 - <a href="chapter02/pow.c">Area of a square with power function(math.h library)</a><br>
 example- <a href="chapter02/type.c">Program on Type conversion</a><br>
 <a href="chapter02/precidence"> Program on Operator Associativity and Operator priority </a>
 <br>
@@ -53,14 +53,14 @@ Q7- <a href="chapter02/root.c">Write a program to find the square root of a numb
  4. <a href="chapter03/iflogical.c">if-else condition drive program using logical operators</a>
  5. <a href="chapter03/elseif.c">A basic Program on else-if clause</a> taking numbers and telling what the numbers are
  6. <a href="chapter03/leapyear.c">A leap year checking Program</a>
- 7. <a href="chapter03/marks.c">The marks obtained by a student in 5 different subjects are input. Tell a devision as per the following rules--</a>
-1. if marks are equal or above than 60- 1st devision
+ 7. <a href="chapter03/marks.c">The marks obtained by a student in 5 different subjects are input. Tell a devision as per the following rules--</a><br>
+   1.if marks are equal or above than 60- 1st devision
 <br>
-2. if marks are between 45 and 60- 2nd devision
+2.if marks are between 45 and 60- 2nd devision
 <br>
-3. if marks are between 33 and 45- 3rd devision
+3.if marks are between 33 and 45- 3rd devision
 <br>
-4. If marks are below 33-- fail
+4.If marks are below 33-- fail
 <br>
 
 8.<a href="chapter03/ternary.c">A if-else program using ternary operator</a>
@@ -76,4 +76,4 @@ there is no tax below 2.5L.
 </pre></a>
 3. <a href="chapter03/ex3.c">Write a program to determine whether a character enterd by the user is lowercase or not</a>
 4. <a href="chapter03/ex4.c">write a program to find greatest of four numbers entered by the user.</a>
-5. <a href="chapter03/ex5.c">Write a program to determine the entered is a vowel or a constant.</a>chapter03/
+5. <a href="chapter03/ex5.c">Write a program to determine the entered is a vowel or a constant.</a>
