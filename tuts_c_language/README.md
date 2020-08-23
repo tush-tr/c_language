@@ -45,3 +45,35 @@ Q6- <a href="chapter02/asc2.c">Write a program to find the ASCII code of a given
 <br>
 Q7- <a href="chapter02/root.c">Write a program to find the square root of a number.</a><br>
 
+## Chapter3- Conditional Instructions
+### Tuts-
+ 1. <a href="chapter03/ifbasic.c">Checking even-odd number program using if condition </a><br>
+ 2. <a href="chapter03/ifelse.c">take user age and tell he can drive or not</a>
+ 3. <a href="chapter03/votemsg.c">Program to tell that you can vote or not by taking the age</a><br>
+ 4. <a href="chapter03/iflogical.c">if-else condition drive program using logical operators</a>
+ 5. <a href="chapter03/elseif.c">A basic Program on else-if clause</a> taking numbers and telling what the numbers are
+ 6. <a href="chapter03/leapyear.c">A leap year checking Program</a>
+ 7. <a href="chapter03/marks.c">The marks obtained by a student in 5 different subjects are input. Tell a devision as per the following rules--</a>
+1. if marks are equal or above than 60- 1st devision
+<br>
+2. if marks are between 45 and 60- 2nd devision
+<br>
+3. if marks are between 33 and 45- 3rd devision
+<br>
+4. If marks are below 33-- fail
+<br>
+
+8.<a href="chapter03/ternary.c">A if-else program using ternary operator</a>
+### Exercises--
+1. <a href="chapter03/ex1.c">write a program to find out whether a student is pass or fail, ifit requires total 40% and at least 33% in each subject to pass. Assume 3 subjects and take marks as an input from the user</a>
+2. <a href="chapter03/ex2.c">Calculate income tax paid by an employee to the govn as per the stats below-
+<pre>
+Income Slab          Tax
+2.5L-5.0L            5%
+5.0L-10.0L           20%
+above 10.0L          30%
+there is no tax below 2.5L.
+</pre></a>
+3. <a href="chapter03/ex3.c">Write a program to determine whether a character enterd by the user is lowercase or not</a>
+4. <a href="chapter03/ex4.c">write a program to find greatest of four numbers entered by the user.</a>
+5. <a href="chapter03/ex5.c">Write a program to determine the entered is a vowel or a constant.</a>chapter03/
