@@ -11,8 +11,9 @@ This repeative operator is done through loop control statement.</p>
 <li>Condition</li>
 <li>Increment/decrement</li>
 </ul>
+
 ### 1. <a href="loop1.c">Print 1 to 100 numbers one by one</a> 
-<b>
+<br>
 
 ## Types of loops
 <ul>
@@ -170,9 +171,9 @@ c. <a href="exer5.c">Using Do while loop</a></pre>
 8. Implement 7 question with other loops
 <pre>a. <a href="exer10.c">using while loop</a>
 b.<a href="exer11.c">Using do while loop</a> 
-</pre>
-9. <a href="exer12.c">Write a program to reverse any number</a>
-10. <a href="exer13.c">Write a program to add all digits of a given number</a>
+</pre><br>
+9. <a href="exer12.c">Write a program to reverse any number</a><br>
+10. <a href="exer13.c">Write a program to add all digits of a given number</a><br>
 11. <a href="exer14.c">Write a program to sort all even and odd numbers</a>
 
 

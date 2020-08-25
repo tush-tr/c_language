@@ -45,7 +45,8 @@ Q6- <a href="chapter02/asc2.c">Write a program to find the ASCII code of a given
 <br>
 Q7- <a href="chapter02/root.c">Write a program to find the square root of a number.</a><br>
 
-## Chapter3- Conditional Instructions
+## Chapter 3- <a href="chapter03">Conditional Instructions</a>
+
 ### Tuts-
  1. <a href="chapter03/ifbasic.c">Checking even-odd number program using if condition </a><br>
  2. <a href="chapter03/ifelse.c">take user age and tell he can drive or not</a>
@@ -77,3 +78,45 @@ there is no tax below 2.5L.
 3. <a href="chapter03/ex3.c">Write a program to determine whether a character enterd by the user is lowercase or not</a>
 4. <a href="chapter03/ex4.c">write a program to find greatest of four numbers entered by the user.</a>
 5. <a href="chapter03/ex5.c">Write a program to determine the entered is a vowel or a constant.</a>
+
+## Chapter 4- <a href="chapter04">Loop Control Instructions</a>
+<br>
+
+### Tuts-
+
+1.<a href="chapter04/loop1.c">Print 1 to 100 numbers one by one</a><br>
+2.<a href="chapter04/whilel.c">Example of while loop</a><br>
+3.<a href='chapter04/qu1.c'>write a program to print natural numbers from 10 to 20 when initial loop counter is initialized to 0</a><br>
+4.<a href='chapter04/qu2.c'>write a program to calculate simple interest for 3 sets of p,n and r.</a><br>
+5.<a href="chapter04/inop.c">See an example of increment and decrement operators</a><br>
+6.<a href="chapter04/dowhile.c">Program on do while loop.</a><br>
+7.<a href="chapter04/qu3.c">Write a program to print first n natural numbers using do-while loop.</a><br>
+8.<a href="chapter04/forloop.c">Write a program to print  zero to 10 numbers using for loop.</a><br>
+9.<a href="chapter04/ex1.c">example of using for loop.</a><br>
+10.<a href="chapter04/qu4.c">Write a program to print first n numbers using for loop.</a><br>
+11.<a href="chapter04/ex2.c">Decrementing for loop.</a><br>
+12.<a href="chapter04/qu5.c">write a program to print n natural numbers in reverse order.</a><br>
+13.<a href="chapter04/13c.c">Write a program to print the table of any number</a><br>
+14.<a href="chapter04/break.c">Using break statement inside a do while loop</a><br>
+15.<a href="chapter04/continue.c">Using continue statement</a><br>
+
+###chapter04/ Exercises
+
+1. <a href="chapter04/13c.c">Write a program to print a multiplication table of a given number.</a><br>
+2. <a href="chapter04/exer2.c">Write a program to print multiplication table of 10 in reverse order</a><br>
+3. Write a program to sum first 10 natural numbers.<br><pre>
+a. <a href="chapter04/exer3.c">Using For loop</a>
+b. <a href="chapter04/exer4.c">Using While loop</a>
+c. <a href="chapter04/exer5.c">Using Do while loop</a></pre><br>
+4. <a href="chapter04/exer6.c">Write a program to calculate the sum of the numbers occuring in the multiplication table of 8.(Consider 8x1 to 8x10)</a>
+<br>
+5. <a href="chapter04/exer7.c">Write a program to calculate the factorial of a given number using a for loop</a><br>
+6. <a href="chapter04/exer8.c">Repeat 8 using while loop</a><br>
+7. <a href="chapter04/exer9.c">Write a program to check whether a given number is prime or not using loops</a><br>
+8. Implement 7 question with other loops
+<pre>a. <a href="chapter04/exer10.c">using while loop</a>
+b.<a href="chapter04/exer11.c">Using do while loop</a> 
+</pre><br>
+9. <a href="chapter04/exer12.c">Write a program to reverse any number</a><br>
+10. <a href="chapter04/exer13.c">Write a program to add all digits of a given number</a><br>
+11. <a href="chapter04/exer14.c">Write a program to sort all even and odd numbers</a>
