@@ -100,7 +100,7 @@ there is no tax below 2.5L.
 14.<a href="chapter04/break.c">Using break statement inside a do while loop</a><br>
 15.<a href="chapter04/continue.c">Using continue statement</a><br>
 
-###chapter04/ Exercises
+### Exercises
 
 1. <a href="chapter04/13c.c">Write a program to print a multiplication table of a given number.</a><br>
 2. <a href="chapter04/exer2.c">Write a program to print multiplication table of 10 in reverse order</a><br>
@@ -120,3 +120,30 @@ b.<a href="chapter04/exer11.c">Using do while loop</a>
 9. <a href="chapter04/exer12.c">Write a program to reverse any number</a><br>
 10. <a href="chapter04/exer13.c">Write a program to add all digits of a given number</a><br>
 11. <a href="chapter04/exer14.c">Write a program to sort all even and odd numbers</a>
+
+## Chapter 5-<a href="chapter05"> Functions and Recursion</a>
+
+### Tuts--
+1. <a href="chapter05/ex1.c">Syntax of Using Functions</a><br>
+2. <a href="chapter05/ex2.c">Write a program with three functions</a>
+3. <a href="chapter05/ex3.c">Every function gets called directly or indirectly from main()</a><br>
+4. <a href="chapter05/ex4.c">Sum program using functions.</a><br>
+5. <a href="chapter05/ex5.c">change is a function which changes a to 77.</a><br>
+6. <a href="chapter05/ex6.c">Use the library functions to calculate the area of a square with side a.</a><br>
+7. <a href="chapter05/ex7.c">Write a program to find the factorial of a given number using recursive function method.</a><br>
+
+### Exercises
+
+<ol>
+<li><a href="chapter05/q1.c">Write a program using functions to find average of three numbers</a></li>
+<li><a href="chapter05/q2.c">Write a function to convert celcius temperature into fahrenheit.</a></li>
+<li><a href="chapter05/q3.c">write a function to calculate force if attraction on a body of mass m exerted by earth(g = 9. m/s^2)</a></li>
+<li><a href="chapter05/q4.c">Write a program using recursion to calculate nth element of fibonacci series.</a></li>
+<li><a href="chapter05/q5.c">Write a recursive function to calculate the sum of first n natural numbers.</a></li>
+<li><a href="chapter05/q6.c">Write a program using functions to print the following pattern(first n lines)</a></li>
+</ol>
+<pre>
+*
+***
+*****
+</pre>
