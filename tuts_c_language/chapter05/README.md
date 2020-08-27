@@ -141,3 +141,7 @@ factorial(n)= n x factorial(n-1)
 ***
 *****
 </pre>
+
+### Problem-- <a href="pr1.c">
+There is a series, , where the next term is the sum of pervious three terms. Given the first three terms of the series, , , and  respectively, you have to output the nth term of the series using recursion.
+</a>
