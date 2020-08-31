@@ -54,15 +54,11 @@ Q7- <a href="chapter02/root.c">Write a program to find the square root of a numb
  4. <a href="chapter03/iflogical.c">if-else condition drive program using logical operators</a>
  5. <a href="chapter03/elseif.c">A basic Program on else-if clause</a> taking numbers and telling what the numbers are
  6. <a href="chapter03/leapyear.c">A leap year checking Program</a>
- 7. <a href="chapter03/marks.c">The marks obtained by a student in 5 different subjects are input. Tell a devision as per the following rules--</a><br>
+ 7. <a href="chapter03/marks.c">The marks obtained by a student in 5 different subjects are input. Tell a devision as per the following rules--</a><pre>
    1.if marks are equal or above than 60- 1st devision
-<br>
 2.if marks are between 45 and 60- 2nd devision
-<br>
 3.if marks are between 33 and 45- 3rd devision
-<br>
-4.If marks are below 33-- fail
-<br>
+4.If marks are below 33-- fail</pre>
 
 8.<a href="chapter03/ternary.c">A if-else program using ternary operator</a>
 ### Exercises--
@@ -147,3 +143,63 @@ b.<a href="chapter04/exer11.c">Using do while loop</a>
 ***
 *****
 </pre>
+
+## Chapter 6-<a href="chapter06"> Pointers</a> 
+
+### Tuts--
+
+1. <a href="chapter06/ex1.c">A program to demonstrate pointers.</a><br>
+2. <a href="chapter06/ex2.c">Program to demonstrate pointer to a pointer</a><br>
+3. <a href="chapter06/ex3.c">program using simple function.</a><br>
+4. <a href="chapter06/ex4.c">Example Program(Swaping variables) using call by reference function. </a><br>
+
+### Exercises
+<ol>
+<li><a href="chapter06/q1.c"> Write a program to print the address of a vairable.Use this address to get the value of this variable.</a></li>
+<li><a href="chapter06/q2.c">Write a program having a variable i. Pass this variable to a function and print its address. Are those addresses same? Why?</a></li>
+<li><a href="chapter06/q3.c">Write a program to change the value of a variable to ten times of its current value. Write a function and pass the value by reference.</a></li>
+<li><a href="chapter06/q4.c">Write a program using function which calculate the sum and average of two numbers.
+Use pointers and print the values of sum and average in main().</a></li>
+<li><a href="chapter06/q5.c">write a program to print the value of a variable i by using "pointer to pointer"type of variable.</a></li>
+<li><a href="chapter06/q6.c">Try problem 3 using call by value and verify that it doesn't change the value of the said variable.</a></li>
+</ol>
+
+
+## Chapter 7-<a href="chapter07"> Arrays</a> 
+
+### Tuts--
+1.<a href="chapter07/ex1.c">Write a program to accept marks in 4 subjects by the user in an array and print them to the screen one by one.</a><br>
+2.<a href="chapter07/ex2.c">Write a program to accept marks of 5 students in an array and print them to the screen one by one.</a><br>
+3.<a href="chapter07/ex3.c">Initialization of an array</a><br>
+4.<a href="chapter07/ex4.c">Examples on pointer arithmetic.</a><br>
+5.<a href="chapter07/ex5.c">Try these operations on another variable by creating poitners in a seperate program. Demonstrate all the four operations.</a><br>
+6.<a href="chapter07/ex6.c">Examples on Accessing arrays using pointers.</a><br>
+7.<a href="chapter07/ex7.c">Example on accessing arrays</a><br>
+8.<a href="chapter07/ex8.c">Example on 2-D arrays</a><br>
+9.<a href="chapter07/ex9.c">Example on 3-D arrays</a><br>
+10.<a href="chapter07/ex10.c">Create a 2-d array by taking input from the user.Write a display function to print the content of this 2-d array on the screen.</a>
+
+### Exercises
+<ol><li><a href="chapter07/q1.c">Create an array of 10 numbers. Verify using pointer arithmetic that (ptr+2) points to the third element where ptr is a pointer pointing to the first element of the array.</a></li><br>
+<li><a href="chapter07/q2.c">Write a program to create an array of 10 integers and store multiplication table of 5 in it.</a><li><br>
+<li><a href="chapter07/q3.c">Repeat problem 2 for general input provided by the user using scanf.</a></li><br>
+<li><a href="chapter07/q4.c">Write a program containing a function which reverses the array passed to it.</a></li><br>
+<li><a href="chapter07/q5.c">Write a program containing functions which counts the number of positive integers in an array.</a></li><br>
+<li><a href="chapter07/q6.c">Create an array of size 3x10 containing multiplication tables of the numbers 2,7 and 9 respectively.</a></li><br>
+<li><a href="chapter07/q7.c">Repeat problem 7 for a custom input given.</a></li><br>
+<li><a href="chapter07/q8.c">create a 3-D array and print the address of its elements in increasing order.</a></li><br>
+<li><a href="chapter07/q9.c">create an array of size n, input the elements of the array, sum them and print the sum of the elements in a new line.</a>
+</li><br></ol>
+
+## Chapter 8-<a href="chapter08"> Strings</a> 
+### Tuts--
+### Exercises
+## Chapter 9-<a href="chapter09"> Structures</a> 
+### Tuts--
+### Exercises
+## Chapter 10-<a href="chapter10"> File handling</a> 
+### Tuts--
+### Exercises
+## Chapter 11-<a href="chapter11 "> Dynamic Memory allocation</a> 
+### Tuts--
+### Exercises
