@@ -193,7 +193,31 @@ Use pointers and print the values of sum and average in main().</a></li>
 
 ## Chapter 8-<a href="chapter08"> Strings</a> 
 ### Tuts--
+1. <a href="chapter08/ex1.c">Creating strings</a>
+2. <a href="chapter08/ex2.c">Create a string using "" and print its content using a loop.</a>
+3. <a href="chapter08/ex3.c">Create a string, Take input from user and print the string.</a>
+4. <a href="chapter08/ex4.c">puts() example.</a>
+5. <a href="chapter08/ex5.c">Reinitializing string.</a>
+6. <a href="chapter08/ex6.c">get the length of the string using standard library function..</a>
+7. <a href="chapter08/ex7.c">Implement function that work same as strlen().</a>
+8. <a href="chapter08/ex8.c">Copy string using strcopy() function.</a>
+9. <a href="chapter08/ex9.c">Using strcat() function.</a>
+
 ### Exercises
+## Exercises
+<ol>
+<li><a href="chapter08/q1.c">Write a program to take string as an input from an user using %c and %s. Confirm that the strings are equal.</a></li>
+<li><a href="chapter08/ex7.c">Write your own strlen() function. </a></li>
+<li><a href="chapter08/q2.c">Write a function slice() to slice a string. It should change the original string such that it is now the sliced string.Take m and n as the start and ending position for slice.</a></li>
+<li><a href="chapter08/q3.c">Write your own version of strcpy() function from < string.h ></a></li>
+<li><a href="chapter08/q4.c">Write a program to encrypt a string by adding 1 to the ASCII value of its characters.</a></li>
+<li><a href="chapter08/q5.c">Write a program to decrypt the string encrypted using encrypte function in problem 5.</a></li>
+<li><a href="chapter08/q6.c">Write a program to count the occurence of a given character in a string.</a></li>
+<li><a href="chapter08/q7.c">Write a program to check whether a given character is present in a string or not.</a></li><br>
+</ol>
+
+### <a href="chapter08/prac.c">A program which takes your password or any msg and display encrypted code if you want to decrypt it can decrypt it.</a>
+
 ## Chapter 9-<a href="chapter09"> Structures</a> 
 ### Tuts--
 ### Exercises
