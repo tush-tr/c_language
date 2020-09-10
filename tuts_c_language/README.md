@@ -220,10 +220,62 @@ Use pointers and print the values of sum and average in main().</a></li>
 
 ## Chapter 9-<a href="chapter09"> Structures</a> 
 ### Tuts--
+1. <a href="chapter09/ex1.c">Syntax of using structures. Defining structures and using user defined data types.</a><br>
+2. <a href="chapter09/ex2.c">Write a program to store the details of 3 employees from usr defined data.Use the structure declared above.</a><br>
+3. <a href="chapter09/ex3.c">Making an array of structures.</a><br>
+4. <a href="chapter09/ex4.c">Initializing structures</a><br>
+5. <a href="chapter09/ex5.c">Write a program,define structure and use with pointer and arrow operator.</a><br>
+6. <a href="chapter09/ex6.c">Complete this show function to display the content of employee structure.</a><br>
+7. <a href="chapter09/ex7.c">Using Typedef keyword in structures</a><br>
 ### Exercises
+<ol>
+<li><a href="chapter09/q1.c">Create a two dimensional vector using structures.</a></li>
+<li><a href="chapter09/q2.c">Write a function sumvector which returns the sum of two vectors passed to it. The vectors must be two dimensional.</a></li>
+<li><a href="chapter09/q3.c">Write a program to illustrate the use of arrow operator -> in C.</a></li>
+<li><a href="chapter09/q4.c">Write a program with a structure representing a complex number.</a></li>
+<li><a href="chapter09/q5.c">Create an array of 5 complex numbers created in problem 5 and display them with the help of a display function.The values must be taken as an input from the user.</a></li>
+<li><a href="chapter09/q6.c">Write problem 4's structure using typedef keyword.</a></li>
+<li><a href="chapter09/q7.c">Create a structure representing a bank account of a customer. What fields did you use and why?</a></li>
+<li><a href="chapter09/q8.c">Write a structure capable of storing date. Write a function to compare those dates.</a></li>
+<li><a href="chapter09/q9.c">Solve problem 8 for time using typedef keyword.</a></li>
+</ol>
+
 ## Chapter 10-<a href="chapter10"> File handling</a> 
 ### Tuts--
+1. <a href="chapter10/ex1.c">Writing a file using w mode.</a><br>
+2. <a href="chapter10/ex2.c">Take input integers and a string from a text file and print on the screen.</a><br>
+3. <a href="chapter10/ex3.c">Modfiy the above program to check whether the file exists or not before opening the file.</a><br>
+4. <a href="chapter10/ex4.c">Example of writin to a file</a><br>
+5. <a href="chapter10/ex5.c">Get input from user of numbers and write into the file.</a><br>
+6.<a href="chapter10/ex6.c">Using fgetc() function.</a><br>
+7.<a href="chapter10/ex7.c">Using fputc() function.</a><br>
+8. <a href="chapter10/ex8.c">Reading a Full File.</a><br>
 ### Exercises
+<ol>
+<li><a href="chapter10/que1.c">Write a prorgam to read three integers from a file.</a></li>
+<li><a href="chapter10/que2.c">Write a program to generate multiplication table of a given number in text format.Make sure that the file is readable and well formatted.</a></li>
+<li><a href="chapter10/que3.c">Write a program to read a text file character by character and write its content twice. in a seperate file.</a></li>
+<li><a href="chapter10/que4.c">Take name and salery of two employees as input from the user and write them to a text file in the following format.
+<br>
+<pre>name1,3300<br>name2,7700</pre></a></li>
+<li><a href="chapter10/que5.c">Write a program to modify a fille containing an integer to double its value.</a></li>
+</ol>
+
 ## Chapter 11-<a href="chapter11 "> Dynamic Memory allocation</a> 
 ### Tuts--
+1. <a href="chapter11/ex1.c">What is sizeof() operator ?</a><br>
+2. <a href="chapter11/ex2.c">Using malloc() function.</a><br>
+3. <a href="chapter11/ex3.c">Write a program to create a dynamic array of 5 floats using malloc().</a><br>
+4. <a href="chapter11/ex4.c">Using calloc() function.</a><br>
+5. <a href="chapter11/ex5.c">Write a program to create an array of size n using calloc where n is an integer entered by the user.</a><br>
+6. <a href="chapter11/ex6.c">Write a program to demonstrate the usage of free() with malloc().</a><br>
+7. <a href="chapter11/ex7.c">Using realloc function.</a>
 ### Exercises
+<ol>
+<li><a href="chapter11/que1.c">Write a program to dynamically create an array of size 6 capable of storing 6 integers.</a></li>
+<li><a href="chapter11/que1.c">Use the array in problem 1 to store 6 integers entered by the user.</a></li>
+<li><a href="chapter11/que3.c">Solve problem 1 using calloc().</a></li>
+<li><a href="chapter11/que4.c">Create an array dynamically capable of storing 5 integers. Now use realloc so that is can now store 10 integers.</a></li>
+<li><a href="chapter11/que5.c">Create an array of multiplication table of 7 upto 10(7x10 = 70).Use realloc to make it store 15 numbers.</a></li>
+<li><a href="chapter11/que6.c">Attempt problem 4 using calloc().</a></li>
+</ol>
