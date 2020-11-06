@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: red;
+            color: white;
+            font-size: 3rem;
+        }
+    </style>
+    <script>
+        let rows = 5;
+        let col = 6;
+        for (let i = 0; i < rows; i++) {
+            for (let j = 0; j < col; j++) {
+                document.getElementsByClassName('con').write("*");
+            }
+            document.write('<br>');
+        }
+    </script>
+</head>
+<body>
+    <div class="con"></div>
+</body>
+</html>

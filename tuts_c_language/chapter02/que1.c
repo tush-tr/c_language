@@ -22,10 +22,4 @@ j = (digit/1000)%10=2 (second number)
 k = (digit/100)%10 = 3 (third number)
 l = (digit/10)%10 = 4 (fourth number)
 m = (digit%10 = 5(Fifth number)
-
-
-
-
-
-
 */
